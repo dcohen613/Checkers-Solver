@@ -1,0 +1,39 @@
+# depslib dependency file v1.0
+1418251398 source:c:\users\david\desktop\checkers\board.cpp
+	"Board.h"
+
+1418250281 c:\users\david\desktop\checkers\board.h
+	"Piece.h"
+	"Move.h"
+	<stdio.h>
+	<iostream>
+	<stdlib.h>
+	<cmath>
+	<string>
+	<sstream>
+	<windows.h>
+
+1418163399 c:\users\david\desktop\checkers\piece.h
+	<string>
+
+1418186018 source:c:\users\david\desktop\checkers\client.cpp
+	"Client.h"
+
+1418150397 c:\users\david\desktop\checkers\client.h
+	"Board.h"
+	"Piece.h"
+	<stdio.h>
+	<iostream>
+	<stdlib.h>
+	<cmath>
+	<string>
+	<algorithm>
+
+1418163115 source:c:\users\david\desktop\checkers\piece.cpp
+	"Piece.h"
+
+1418249532 c:\users\david\desktop\checkers\include\move.h
+
+1418249726 source:c:\users\david\desktop\checkers\src\move.cpp
+	"Move.h"
+
